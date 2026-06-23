@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local organized-file samples and scratch files
+test_organize/
+Untitled-1.txt
